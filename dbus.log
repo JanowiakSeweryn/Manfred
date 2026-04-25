@@ -1,0 +1,472 @@
+tring "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.N1fxyf/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.N1fxyf/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958306.114530 sender=:1.54 -> destination=:1.36 serial=120 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.N1fxyf/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: (To badanie olx)"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.N1fxyf/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.N1fxyf/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+method call time=1771958335.183451 sender=:1.246 -> destination=org.freedesktop.Notifications serial=86 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 9
+   string "file:///tmp/.com.google.Chrome.scoped_dir.yvuyng/logo.png"
+   string "Facebook"
+   string "www.facebook.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Zrob im outliermaxxing"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.yvuyng/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.yvuyng/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958335.186221 sender=:1.54 -> destination=:1.36 serial=123 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 9
+   string "file:///tmp/.com.google.Chrome.scoped_dir.yvuyng/logo.png"
+   string "Facebook"
+   string "www.facebook.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Zrob im outliermaxxing"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.yvuyng/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.yvuyng/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+method call time=1771958335.202315 sender=:1.246 -> destination=org.freedesktop.Notifications serial=87 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.Wly1fW/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Zrob im outliermaxxing"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.Wly1fW/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.Wly1fW/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958335.205009 sender=:1.54 -> destination=:1.36 serial=126 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.Wly1fW/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Zrob im outliermaxxing"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.Wly1fW/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.Wly1fW/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+method call time=1771958515.669474 sender=:1.246 -> destination=org.freedesktop.Notifications serial=97 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 9
+   string "file:///tmp/.com.google.Chrome.scoped_dir.8d4Zv4/logo.png"
+   string "Facebook"
+   string "www.facebook.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Daj w 12 prawie nigdy"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.8d4Zv4/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.8d4Zv4/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958515.674336 sender=:1.54 -> destination=:1.36 serial=129 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 9
+   string "file:///tmp/.com.google.Chrome.scoped_dir.8d4Zv4/logo.png"
+   string "Facebook"
+   string "www.facebook.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Daj w 12 prawie nigdy"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.8d4Zv4/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.8d4Zv4/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+method call time=1771958515.737999 sender=:1.246 -> destination=org.freedesktop.Notifications serial=98 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.E1AakN/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Daj w 12 prawie nigdy"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.E1AakN/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.E1AakN/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958515.741506 sender=:1.54 -> destination=:1.36 serial=132 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.E1AakN/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: Daj w 12 prawie nigdy"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.E1AakN/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.E1AakN/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+method call time=1771958646.482554 sender=:1.246 -> destination=org.freedesktop.Notifications serial=99 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 9
+   string "file:///tmp/.com.google.Chrome.scoped_dir.qkWOEP/logo.png"
+   string "Facebook"
+   string "www.facebook.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: 😭"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.qkWOEP/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.qkWOEP/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958646.486306 sender=:1.54 -> destination=:1.36 serial=135 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 9
+   string "file:///tmp/.com.google.Chrome.scoped_dir.qkWOEP/logo.png"
+   string "Facebook"
+   string "www.facebook.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: 😭"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.qkWOEP/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.qkWOEP/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+method call time=1771958646.592880 sender=:1.246 -> destination=org.freedesktop.Notifications serial=102 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.ubSfdU/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: 😭"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.ubSfdU/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.ubSfdU/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+   ]
+   int32 -1
+method call time=1771958646.595441 sender=:1.54 -> destination=:1.36 serial=138 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Google Chrome"
+   uint32 10
+   string "file:///tmp/.com.google.Chrome.scoped_dir.ubSfdU/logo.png"
+   string "Messenger"
+   string "www.messenger.com
+
+LICENCJONOWANY CP EDITOR do grupy Helo it's Zalensky: 😭"
+   array [
+      string "default"
+      string "Activate"
+      string "settings"
+      string "Settings"
+   ]
+   array [
+      dict entry(
+         string "desktop-entry"
+         variant             string "google-chrome"
+      )
+      dict entry(
+         string "image-path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.ubSfdU/icon.png"
+      )
+      dict entry(
+         string "image_path"
+         variant             string "/tmp/.com.google.Chrome.scoped_dir.ubSfdU/icon.png"
+      )
+      dict entry(
+         string "urgency"
+         variant             byte 1
+      )
+      dict entry(
+         string "sender-pid"
+         variant             uint32 16373
+      )
+   ]
+   int32 -1
+
+

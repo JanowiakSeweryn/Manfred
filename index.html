@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .btn{
+            padding: 48px 60px;
+            font-size: 32px;
+            background-color: rgb(6, 73, 6);
+            color: white;
+            transition: 0.2s; 
+            }
+        .btn:active{ background-color: rgb(119, 255, 175)}
+        
+    </style>
+    <title>My ESP32 ahh server</title>
+</head>
+<body>
+    <h1>Hello from C++!</h1>
+    <p>This page was loaded from a separate file.</p>
+
+    <button class="btn" id="manfred" onclick="button1.runCommand()">
+        ManfredON
+    </button>
+
+    <button class="btn" id="manfred2" onclick="button2.runCommand()">
+        OPEN_MANFRED
+    </button>
+
+
+    <script>
+        iter = 0;
+
+        const Button = class{
+            constructor(id,path,textON,textOF){
+                this.id = id;
+                this.path = path;
+                this.textOF = textOF;
+                this.textON = textON;
+                this.counter = 0;
+                this.interval = null;
+
+                this.runCommand = this.runCommand.bind(this);
+            }
+
+            runCommand(){
+                const btn = document.getElementById(this.id);
+
+                fetch(this.path)
+                    .then(response => {
+                        console.log("button clicked!")}
+                )
+                if (this.counter == 0) {
+                    btn.textContent = this.textON;
+                    btn.style.backgroundColor = "red";
+                    this.counter += 1;
+                }
+                else {
+                    btn.textContent = this.textOF;
+                    btn.style.backgroundColor = "green";
+                    this.counter = 0;
+                }
+            }
+        }
+
+        button1 = new Button("manfred","/manfred_on","MANFRED","OFFRED");
+        button2 = new Button("manfred2","/open_manfred","OPEN_MANFRED","CLOSE_MANFRED");
+
+        // button1.runCommand("/hello");
+
+    </script>
+
+</body>
+</html>
